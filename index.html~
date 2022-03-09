@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="The personal website of Matthew Stevens."
+      />
+    <title>Matthew Stevens</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/purecss@2.0.6/build/base-min.css,npm/purecss@2.0.6/build/grids-responsive-min.css" />
+  </head>
+  <body>
+  <div class="pure-g">
+    <div class="pure-u-sm-2-24 pure-u-md-3-24 pure-u-lg-6-24 pure-u-xl-8-24"></div>
+    <div class="pure-u-sm-20-24 pure-u-md-18-24 pure-u-lg-12-24 pure-u-xl-8-24" style="padding: 10px">
+      <h1>Matthew Stevens</h1>
+      <p> I am a mathematics student. If you would like to contact me,
+        you can email me. To obtain my address, reorder the following
+        list of strings appropriately: dot uni-bonn at de s6mastev.
+      </p>
+
+      <h3>Typed notes for Moduli of Elliptic Curves</h3>
+      <p>
+        For those taking Andreas Mihatsch's course on moduli of
+        elliptic curves, you can access my in-progress (and still
+        mistake-ridden) typed adaptation of the course notes at the link below.
+        I hope you will find the typed notes useful, but understand that there
+        are likely many substantive errors. They are provided "as is" with
+        absolutely no warranty of any kind. I am not responsible for any
+        damages arising from the use of these notes. Use them at your own
+        risk.
+      </p>
+    </div>
+    <div class="pure-u-sm-2-24 pure-u-md-3-24 pure-u-lg-6-24 pure-u-xl-8-24"></div>
+  </div>
+  </body>
